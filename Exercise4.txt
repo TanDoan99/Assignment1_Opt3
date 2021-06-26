@@ -1,0 +1,5 @@
+ID: int(10)
+Name : varchar(255)
+BithDate: Date
+Gender:int
+IsDeleteFlag:bit

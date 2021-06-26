@@ -1,0 +1,4 @@
+ID : int(10)
+Name : vachar(255)
+Code : vachar(255)
+ModifiedDate : Datetime
